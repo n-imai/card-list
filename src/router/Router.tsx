@@ -1,3 +1,4 @@
+import React from "react";
 import {memo, VFC} from "react";
 import {Route, Switch} from "react-router-dom";
 import {Login} from "../components/pages/Login";
